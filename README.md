@@ -6,6 +6,8 @@ This is useful because the site doesn't (seem to) provide a REST interface or ot
 
 Essentially you can make a javascript file which specifies the parameters for various reports and then run this to automate the download.
 
+See also http://casperjs.org/
+
 To do
 =====
 
