@@ -1,6 +1,6 @@
 # etzdownload
 
-This Casper.js module handles the automation of report downloads from http://www.timesheetz.net/, the ETZ timesheets site (http://timesheetz.net)
+This Casper.js module handles the automation of report downloads from http://www.timesheetz.net/, the ETZ timesheets site.
 
 This is useful because the site doesn't (seem to) provide a REST interface or otherwise for automating downloads, and they become tedious to download regularly en masse.
 
