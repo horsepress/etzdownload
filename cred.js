@@ -2,6 +2,6 @@
 //rename this file to "cred.js" to use 
 
 exports.cred = {
-    "email":"xxxx@mybpos.net"
+    "email":"xxxx@xxxxxx.xxx"
     ,"password":""
 };
