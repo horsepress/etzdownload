@@ -4,7 +4,7 @@
 
   you can run this like to specify a username and password on the command line:
 
-  bin\casperjs.exe etzDownloadSample.js --email=phughson@mybpos.net --password=xxxxxxxxx --outputdir=c:/temp/output/fake --capturedir=c:/temp/output/captures
+  bin\casperjs.exe etzDownloadSample.js --email=xxxxx@xxxx.xxx --password=xxxxxxxxx --outputdir=c:/temp/output/fake --capturedir=c:/temp/output/captures
 
   or just run with no options and enable settings here as per the comments below
   bin\casperjs.exe casetzrun.js
@@ -23,7 +23,7 @@ etzdownload.checkForPwFile('./cred.js');
 
 /*  // alternatively we can specify a password here (or in command line as above)
 etzdownload.setLogin({
-    email:'phughson@mybpos.net'    
+    email:'xxxxx@xxxx.xxx'    
     ,password:'xxxxxxxx'    
 });
 // */
