@@ -2,7 +2,7 @@
 v0.1a
 This Casper.js module handles the automation of report downloads from http://www.timesheetz.net/, the ETZ timesheets site
 
-Written by Philip Hughson - philiphughson at yahoo dot co dot uk
+https://github.com/phhu/etzdownload
 */
 
 var require = patchRequire(require);
